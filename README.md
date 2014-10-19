@@ -19,3 +19,5 @@ Framtida utvidningar:
 Förslag på teknisk lösning:
 - Lokal server på rPi som hämtar information om tåg med hjälp av API från tågtider.net (?)
 
+Bra att veta:
+- Med hjälp av python kan man starta localhost mha python -m SimpleHTTPServer 8080
