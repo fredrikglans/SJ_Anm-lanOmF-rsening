@@ -17,7 +17,9 @@ Framtida utvidningar:
 - Publikt?
 
 Förslag på teknisk lösning:
-- Lokal server på rPi som hämtar information om tåg med hjälp av API från tågtider.net (?)
+- [Django](https://www.djangoproject.com/)
+- [Requests](http://docs.python-requests.org/en/latest/)
+- Lokal server på rPi som hämtar information om tåg med hjälp av [tågtider.net/api](http://tagtider.net/api/) (?)
 
 Bra att veta:
 - Med hjälp av python kan man starta localhost mha python -m SimpleHTTPServer 8080
